@@ -1,4 +1,4 @@
-// Temlate codes are in https://github.com/nettou03/AtCoder-Template
+// Template codes are in https://github.com/nettou03/AtCoder-Template
 
 #include <bits/stdc++.h>
 using namespace std;
